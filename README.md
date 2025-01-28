@@ -1,0 +1,1 @@
+This personal project is inspired by Fall Guys but designed as a single-player experience. The game challenges players to complete chaotic and obstacle-filled levels while racing against the clock to achieve the best possible time.
